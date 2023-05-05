@@ -1,4 +1,4 @@
-# JavaScript as a Second Language
+# Learning JavaScript
 
 This repository contains practice examples that I created while taking the [JavaScript as a Second Language](https://www.linkedin.com/learning/javascript-as-a-second-language?u=142500650) course on LinkedIn Learning. The course covers the basics of JavaScript syntax, data types, operators, control structures, functions, objects, arrays, and more.
 
